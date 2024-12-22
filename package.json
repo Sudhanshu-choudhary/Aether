@@ -1,0 +1,13 @@
+{
+  "name": "aether",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sudhanshu Choudhary",
+  "license": "ISC",
+  "description": "Aether is an advanced, customizable AI assistant designed to seamlessly integrate into daily life, offering unparalleled functionality through a sleek, dark-themed interface. Targeted at users who demand precision and efficiency, Aether leverages state-of-the-art technology to deliver a futuristic experience, blending intuitive interaction with cutting-edge AI"
+}
