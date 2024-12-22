@@ -9,5 +9,11 @@
   "keywords": [],
   "author": "Sudhanshu Choudhary",
   "license": "ISC",
-  "description": "Aether is an advanced, customizable AI assistant designed to seamlessly integrate into daily life, offering unparalleled functionality through a sleek, dark-themed interface. Targeted at users who demand precision and efficiency, Aether leverages state-of-the-art technology to deliver a futuristic experience, blending intuitive interaction with cutting-edge AI"
+  "description": "Aether is an advanced, customizable AI assistant designed to seamlessly integrate into daily life, offering unparalleled functionality through a sleek, dark-themed interface. Targeted at users who demand precision and efficiency, Aether leverages state-of-the-art technology to deliver a futuristic experience, blending intuitive interaction with cutting-edge AI",
+  "devDependencies": {
+    "concurrently": "^9.1.0",
+    "eslint": "^9.17.0",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
+  }
 }
